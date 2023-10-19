@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary = "Rswag JSON schema loader"
   spec.description = "Load JSON schemas into RSwag's Swagger/OpenAPI spec"
-  spec.homepage = "https://github.com/kodius/rswag_json_loader"
+  spec.homepage = "https://github.com/kodius/rswag-json-loader"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
 

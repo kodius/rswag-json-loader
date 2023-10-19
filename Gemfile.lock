@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    rswag_json_loader (0.1.1)
+    rswag_json_loader (0.1.2)
       json_schemer (~> 0.2.18)
       rswag-specs
 
