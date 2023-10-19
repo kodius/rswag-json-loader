@@ -1,4 +1,4 @@
-# 💎 RswagJsonLoader
+# 💎 rswag-json-loader
 
 Use JSON schema files for your Swagger/OpenAPI definitions, instead of storing them in `swagger_helper.rb`
 
