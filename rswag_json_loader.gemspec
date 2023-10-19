@@ -27,5 +27,5 @@ Gem::Specification.new do |spec|
   spec.executables = spec.files.grep(%r{\Aexe/}) { |f| File.basename(f) }
 
   spec.add_dependency "json_schemer", "~> 0.2.18"
-  spec.add_dependency "rswag-specs", "~> 2.6.0"
+  spec.add_dependency "rswag-specs"
 end

@@ -1,3 +1,11 @@
+PATH
+  remote: .
+  specs:
+    rswag_json_loader (0.1.1)
+      json_schemer (~> 0.2.18)
+      rswag-specs
+
+GEM
   remote: https://rubygems.org/
   specs:
     actionpack (7.0.8)
@@ -111,6 +119,7 @@ PLATFORMS
 
 DEPENDENCIES
   rake (~> 13.0)
+  rswag_json_loader!
   rubocop (~> 1.21)
 
 BUNDLED WITH
